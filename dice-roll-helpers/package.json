@@ -1,0 +1,26 @@
+{
+  "name": "dice-roll-helpers",
+  "version": "0.1.0",
+  "description": "Helper utilities built on top of dice-roll-sdk for common dApp integration patterns.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "stacks",
+    "celo",
+    "blockchain",
+    "sdk",
+    "helpers",
+    "utils"
+  ],
+  "license": "MIT",
+  "author": "brventonbeshers",
+  "dependencies": {
+    "dice-roll-sdk": "*"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
