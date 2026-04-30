@@ -1,0 +1,26 @@
+{
+  "name": "clicker-stacks-helpers",
+  "version": "0.1.0",
+  "description": "Helper utilities built on top of clicker-stacks-sdk for common dApp integration patterns.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "stacks",
+    "celo",
+    "blockchain",
+    "sdk",
+    "helpers",
+    "utils"
+  ],
+  "license": "MIT",
+  "author": "brventonbeshers",
+  "dependencies": {
+    "clicker-stacks-sdk": "*"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
